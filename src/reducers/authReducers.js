@@ -16,4 +16,4 @@ export default (state = INITIAL_STATE, action) => {
   }
 };
 
-// another test
+// Simple commit to test email adress

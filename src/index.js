@@ -20,4 +20,3 @@ ReactDOM.render(
   document.querySelector("#root")
 );
 
-// Delete this line7

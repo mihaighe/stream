@@ -1,16 +1,40 @@
 {
   "streams": [
     {
-      "title": "This is my stream!",
-      "description": "Description!",
+      "title": "Desktop Live",
+      "description": "Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit",
       "userId": "116496304457296748124",
       "id": 2
     },
     {
-      "title": "This is another stream",
-      "description": "Another description",
+      "title": "Music",
+      "description": "Duis convallis convallis tellus id interdum velit",
       "userId": "116496304457296748124",
       "id": 3
+    },
+    {
+      "title": "Gaming",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "userId": "116496304457296748124",
+      "id": 4
+    },
+    {
+      "title": "Anime",
+      "description": "Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam",
+      "userId": "116496304457296748124",
+      "id": 5
+    },
+    {
+      "description": " Aliquet risus feugiat in ante metus dictum at tempor. Id consectetur purus ut faucibus pulvinar. Ipsum nunc aliquet bibendum",
+      "title": "Guitar",
+      "userId": "116496304457296748124",
+      "id": 6
+    },
+    {
+      "description": "Mauris ultrices eros in cursus turpis massa tincidunt. In nibh mauris cursus mattis molestie a",
+      "title": "Japanese",
+      "userId": "116496304457296748124",
+      "id": 7
     }
   ]
 }
